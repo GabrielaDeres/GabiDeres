@@ -76,3 +76,28 @@
     justify-content: space-around;
     align-items: center;
 }
+.pincel-triangular-imagem{
+    width: 30%;
+    align-items: center;
+}
+
+.pincel-triangular{
+    background-image: linear-gradient(#f0f0f0, #eeeeee);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.pincel-triangular-texto{
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pincel-triangular-texto2{
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+}
